@@ -1,5 +1,5 @@
 env
-node_modeules
+frontend/node_modules
 .vscode
 __pycache__
 venv
