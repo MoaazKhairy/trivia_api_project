@@ -1,8 +1,8 @@
+env
+node_modeules
 .vscode
 __pycache__
 venv
-env
-node_modeules
 # OS generated files #
 ######################
 .DS_Store
